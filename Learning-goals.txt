@@ -1,0 +1,41 @@
+The following include the skills i would like to learn;
+Virtualization & Containers — Understanding how resources are abstracted and managed, plus containerization with Docker and Kubernetes.
+
+Cloud Networking — Designing secure, scalable networks across hybrid and multi-cloud environments.
+
+Storage & Databases — Mastering object storage, block storage, and managed databases like AWS RDS or Azure SQL.
+
+Cloud Security — Identity and access management (IAM), encryption, compliance frameworks, and governance.
+
+DevOps & Automation — CI/CD pipelines, Infrastructure as Code (Terraform, Ansible), and automated deployments.
+Serverless Computing — Building applications with AWS Lambda, Azure Functions, or Google Cloud Functions.
+
+Cloud Architecture — Designing resilient, cost-effective, and scalable systems.
+
+Data Engineering — Big data pipelines, analytics, and machine learning integration.
+
+Monitoring & Observability — Tools like Prometheus, Grafana, and cloud-native monitoring solutions.
+
+Compliance & Governance — Essential for regulated industries, ensuring systems meet standards like GDPR, HIPAA, or ISO.
+Multi-cloud Strategy — Managing workloads across AWS, Azure, and GCP.
+
+Cost Optimization — Reducing cloud spend while maintaining performance.
+
+Disaster Recovery — Planning failover strategies and backup solutions.
+
+career goals;
+Skill Mastery — Gaining expertise in cloud platforms (AWS, Azure, GCP) and becoming proficient in automation, security, and architecture.
+
+Professional Certification — Achieving industry-recognized certifications (AWS Solutions Architect, Azure Administrator, etc.) to validate skills and boost employability.
+
+Specialization — Focusing on niches like cloud security, DevOps, or data engineering to stand out in the job market.
+
+Career Advancement — Progressing from entry-level roles (Cloud Engineer) to senior positions (Solutions Architect, Cloud Security Lead).
+
+Innovation & Leadership — Leading projects that drive digital transformation, optimizing cloud costs, and designing scalable systems.
+
+Global Opportunities — Leveraging cloud skills to work with international teams, remote roles, and cross-border projects.
+
+Community Impact — Using cloud solutions to empower local businesses, startups, and communities with scalable, secure technology.
+
+
